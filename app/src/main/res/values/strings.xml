@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Prudent App</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+
+    <string-array
+        name="advices">
+        <item>Bloody Mary a la orden</item>
+        <item>Llamala constantemente</item>
+        <item>Hora de llevar chocolates</item>
+        <item>Se comprensivo, olvídate de pelear</item>
+        <item>Maratón de películas</item>
+
+        <item>48 horas de recompensa</item>
+        <item>24 horas de recompensa</item>
+
+        <item>Estamos entrando a zona de riesgo cúbrete</item>
+        <item>Estamos en a zona de riesgo cúbrete</item>
+        <item>Estamos en a zona de riesgo cúbrete</item>
+        <item>Estamos en a zona de riesgo cúbrete</item>
+        <item>Estamos saliendo a zona de riesgo cúbrete</item>
+
+        <item>NI SE TE OCURRA!!</item>
+        <item>NI SE TE OCURRA!!</item>
+        <item>NI SE TE OCURRA!!</item>
+
+        <item>Avance con precaución</item>
+        <item>Avance con precaución</item>
+        <item>Avance con precaución</item>
+        <item>Avance con precaución</item>
+
+        <item>9 días en el paraíso</item>
+        <item>8 días en el paraíso</item>
+        <item>7 días en el paraíso</item>
+        <item>6 días en el paraíso</item>
+        <item>5 días en el paraíso</item>
+        <item>4 días en el paraíso</item>
+        <item>3 días en el paraíso</item>
+        <item>2 días en el paraíso</item>
+        <item>1 día en el paraíso</item>
+    </string-array>
+
+</resources>
